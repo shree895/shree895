@@ -237,13 +237,7 @@ Building practical understanding of supervised learning, feature engineering, mo
 </table>
 
 ---
-<h2 align="center">⚡ COMMAND CENTER — ACTIVITY</h2>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shree895&bg_color=0D1B2A&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Shree%20Sinha%20%7C%20GitHub%20Activity"
-     width="95%"
-     alt="GitHub Activity Graph"/>
 
 </div>
 
