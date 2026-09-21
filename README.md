@@ -70,8 +70,12 @@
 
 ### 📊 DATA SCIENCE & ML
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" />
-
+<img src="https://img.shields.io/badge/NumPy-0D1B2A?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-0D1B2A?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-0D1B2A?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-0D1B2A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-0D1B2A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jupyter-0D1B2A?style=for-the-badge&logo=jupyter&logoColor=white" />
 <br><br>
 
 ### 🛠️ TOOLS & WORKFLOW
