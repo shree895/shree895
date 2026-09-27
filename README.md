@@ -120,13 +120,17 @@ C
 
 **DATA**
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-0D1B2A?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-0D1B2A?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <br><br>
 
-EDA
-Data Cleaning
-Preprocessing
+EDA  
+Data Cleaning  
+Preprocessing  
 Feature Engineering
 
 </td>
