@@ -2,9 +2,9 @@
 
 # `SHREE SINHA`
 
-### ⚡ DATA SCIENCE • MACHINE LEARNING • ANALYTICS
+### `DATA SCIENCE × MACHINE LEARNING × ANALYTICS`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+Data+Science;Python+%7C+SQL+%7C+Java;Turning+data+into+useful+insights;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=4CC9F0&center=true&vCenter=true&width=720&lines=Turning+data+into+useful+systems;Learning+%7C+Building+%7C+Experimenting;Python+%7C+SQL+%7C+Machine+Learning;Data+Science+in+progress..." alt="Typing SVG" />
 
 <br>
 
@@ -28,24 +28,46 @@
 
 ---
 
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                       DATA//OS                               │
+│                                                              │
+│  USER        : SHREE SINHA                                  │
+│  DOMAIN      : DATA SCIENCE                                 │
+│  FOCUS       : ML / ANALYTICS / AI                          │
+│  MODE        : BUILDING                                     │
+│  STATUS      : ● ONLINE                                     │
+│                                                              │
+│  CODE  →  DATA  →  INSIGHT  →  MODEL  →  SYSTEM             │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+# `/about`
+
 <table>
 <tr>
 
 <td width="58%" valign="top">
 
-## 👩🏻‍💻 ABOUT ME
+### 👩🏻‍💻 WHO AM I?
 
 🎓 **Computer Science undergraduate** specializing in **Data Science**
 
 📊 Interested in **Data Analytics, Machine Learning & AI**
 
-🐍 Building with **Python, SQL & Java**
+🐍 Building with **Python, SQL, Java & C**
 
-🔎 Exploring **EDA, visualization & predictive modeling**
+🔎 Exploring **EDA, data visualization, predictive modeling & NLP**
+
+🧠 Learning how data moves from **raw information → useful decisions**
 
 🚀 Focused on becoming **industry-ready in Data Science & ML**
 
-💡 Learning by **building practical projects**
+💡 I learn best by **building practical projects**
 
 </td>
 
@@ -62,21 +84,38 @@
 
 ---
 
-# ⚡ TECH COMMAND CENTER
+# `/data-engine`
 
 <div align="center">
 
-### 💻 PROGRAMMING
+### 🐍 PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
+
+<br><br>
+
+### 🗄️ DATA & DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-0D1B2A?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-0D1B2A?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge" />
 
 <br><br>
 
-### 📊 DATA SCIENCE & MACHINE LEARNING
+### 🤖 MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,jupyter&theme=dark" />
+<img src="https://img.shields.io/badge/Scikit--learn-0D1B2A?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-0D1B2A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-0D1B2A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-0D1B2A?style=for-the-badge" />
 
 <br><br>
+
+### 📈 VISUALIZATION
 
 <img src="https://img.shields.io/badge/Matplotlib-0D1B2A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Seaborn-0D1B2A?style=for-the-badge" />
@@ -84,328 +123,295 @@
 
 <br><br>
 
-### 🛠️ TOOLS & WORKFLOW
+### 🛠️ WORKFLOW
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 
 </div>
 
 ---
 
-# 🧠 DATA SCIENCE STACK
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="25%">
-
-### 🐍
-
-**PROGRAMMING**
-
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
-
-<br><br>
-
-Python
-Java
-C
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**DATA**
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-0D1B2A?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img src="https://img.shields.io/badge/NumPy-0D1B2A?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<br><br>
-
-EDA  
-Data Cleaning  
-Preprocessing  
-Feature Engineering
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**MACHINE LEARNING**
-
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-
-<br><br>
-
-Regression
-Classification
-Model Evaluation
-Predictive Modeling
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**DATABASE & CS**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<br><br>
-
-SQL
-DBMS
-OOP
-Basic DSA
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📊 Zomato EDA
-
-**Restaurant Data Analysis**
-
-Explored restaurant pricing, ratings, locations and delivery trends through exploratory data analysis.
-
-**Tech**
-
-`Python` `Pandas` `NumPy`
-`Matplotlib` `Seaborn`
-
-<br>
-
-<a href="https://github.com/shree895/Zomato-EDA">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🛒 AI Retail Intelligence
-
-**Tableau + Python**
-
-Interactive dashboard analyzing retail sales, profit, customer behaviour and regional performance.
-
-**Tech**
-
-`Tableau` `Python`
-`Data Visualization` `Analytics`
-
-<br>
-
-<a href="https://github.com/shree895/AI-Retail-Intelligence-Analytics">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎓 Student Management System
-
-**Java + OOP**
-
-Console-based application for managing student records with add, search and display functionality.
-
-**Tech**
-
-`Java` `OOP`
-`DBMS Concepts`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 Machine Learning
-
-**Learning in Progress**
-
-Building practical understanding of supervised learning, feature engineering, model evaluation and predictive modeling.
-
-**Focus**
-
-`Regression` `Classification`
-`Preprocessing` `Model Evaluation`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 GITHUB COMMAND CENTER
+# `/capabilities`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shree895&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=github" width="48%" />
+|        AREA        | CURRENT FOCUS                                     |
+| :----------------: | :------------------------------------------------ |
+| 🐍 **Programming** | Python • Java • C                                 |
+|    🗄️ **Data**    | SQL • Pandas • NumPy                              |
+|  📊 **Analytics**  | EDA • Data Cleaning • Visualization               |
+|      🤖 **ML**     | Regression • Classification • Predictive Modeling |
+|      🧠 **AI**     | Machine Learning • NLP • AI Systems               |
+|      📈 **BI**     | Tableau • Analytical Dashboards                   |
+|      💻 **CS**     | OOP • DBMS • Basic DSA                            |
+|    🔧 **Tools**    | Git • GitHub • VS Code • Jupyter                  |
+
+</div>
+
+---
+
+# `/projects`
+
+### `01 // SNAPCLASS`
+
+## 🎯 AI Smart Attendance System
+
+**Face Recognition × Voice × QR × Streamlit**
+
+An AI-based attendance system designed around automated attendance capture and shareable attendance access.
+
+**Stack**
+
+`Python` `Streamlit` `Face Recognition` `Voice Processing` `Supabase` `QR`
+
+<a href="https://github.com/shree895">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### `02 // AI RETAIL INTELLIGENCE`
+
+## 🛒 Retail Analytics & Visualization
+
+**EDA × Business Intelligence × Tableau**
+
+A retail analytics project focused on transforming raw business data into visual insights and decision-support information.
+
+**Stack**
+
+`Python` `Pandas` `EDA` `Tableau` `Data Visualization`
+
+<a href="https://github.com/shree895">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### `03 // SKILL MATCHER`
+
+## 🧩 Resume Skill Matching System
+
+**NLP × TF-IDF × Cosine Similarity**
+
+A Python-based application that compares resume content with required skills using text-processing and similarity techniques.
+
+**Stack**
+
+`Python` `NLP` `NLTK` `TF-IDF` `Cosine Similarity` `Tkinter`
+
+<a href="https://github.com/shree895">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+### `04 // ZOMATO EDA`
+
+## 🍽️ Restaurant Data Exploration
+
+**EDA × Patterns × Visualization**
+
+Exploratory analysis of restaurant data to investigate ratings, pricing, locations and other observable patterns.
+
+**Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+<a href="https://github.com/shree895">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+# `/research`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                       RESEARCH LAB                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  01  GREEN AI                                               ║
+║      How can ML systems reduce computational & carbon cost? ║
+║                                                              ║
+║  02  MODEL OPTIMIZATION                                     ║
+║      How can efficient models maintain useful performance?  ║
+║                                                              ║
+║  03  DATA-DRIVEN SYSTEMS                                    ║
+║      How can analytics become practical intelligent tools?  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### Current Research Direction
+
+**Carbon-Aware AI Model Optimizer**
+
+Exploring the intersection of:
+
+`Algorithm Optimization`
+`Model Efficiency`
+`Energy Consumption`
+`Carbon Awareness`
+`Machine Learning`
+
+The long-term idea is to investigate how an optimization system could select or recommend efficient ML configurations while considering both predictive performance and computational/environmental cost.
+
+---
+
+# `/now`
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                         NOW                              │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  → BUILDING       Data Science & ML projects             │
+│                                                          │
+│  → LEARNING       Advanced Machine Learning              │
+│                                                          │
+│  → EXPLORING      Green AI & Model Optimization          │
+│                                                          │
+│  → IMPROVING      SQL • DSA • Problem Solving             │
+│                                                          │
+│  → DEVELOPING     Industry-ready development skills       │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# `/github`
+
+<div align="center">
+
+### COMMAND CENTER
+
+<img src="https://github-readme-stats.vercel.app/api?username=shree895&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=FFFFFF&icon_color=4CC9F0&text_color=FFFFFF&rank_icon=github" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree895&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=FFFFFF&text_color=FFFFFF" width="42%" />
 
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shree895&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
-
-</div>
-
----
-
-# 📊 CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shree895&bg_color=0D1B2A&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# 🎮 CONTRIBUTION GAME
-
-<div align="center">
-
-### `EAT. CODE. REPEAT.`
-
-<br>
-
-<img src="https://raw.githubusercontent.com/shree895/shree895/output/pacman.svg"
-  width="95%"
-  alt="Pac-Man contribution game">
-
-</div>
-
----
-
-# 🧩 CURRENTLY LEARNING
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="20%">
-
-🤖
-
-<br>
-
-<b>Machine Learning</b>
-
-</td>
-
-<td align="center" width="20%">
-
-📊
-
-<br>
-
-<b>Data Analytics</b>
-
-</td>
-
-<td align="center" width="20%">
-
-🐍
-
-<br>
-
-<b>Advanced Python</b>
-
-</td>
-
-<td align="center" width="20%">
-
-🧠
-
-<br>
-
-<b>Artificial Intelligence</b>
-
-</td>
-
-<td align="center" width="20%">
-
-☁️
-
-<br>
-
-<b>Industry Tools</b>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 DATA COMMANDER MISSION
-
-<div align="center">
-
-### `LEARN → BUILD → ANALYZE → IMPROVE`
-
-<br>
-
-**Turning curiosity into projects.**
-**Turning projects into skills.**
-**Turning skills into impact.**
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-0D1B2A?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 `STAY CURIOUS. KEEP BUILDING.`
-
-<br>
-
-<a href="https://github.com/shree895">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <br><br>
 
-⭐ **Thanks for visiting my profile!**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shree895&bg_color=0D1B2A&color=FFFFFF&line=4CC9F0&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
+
+---
+
+# `/activity`
+
+<div align="center">
+
+### CONTRIBUTION MATRIX
+
+<img src="https://ghchart.rshah.org/0D1B2A/shree895" alt="Shree Sinha GitHub contribution graph" width="95%" />
+
+</div>
+
+---
+
+# `/learning-loop`
+
+<div align="center">
+
+```text
+             ┌─────────────┐
+             │    LEARN    │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │    BUILD    │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   ANALYZE   │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   IMPROVE   │
+             └──────┬──────┘
+                    │
+                    └──────────────→ REPEAT
+```
+
+</div>
+
+---
+
+# `/principles`
+
+<div align="center">
+
+### `01`
+
+**BUILD BEFORE PERFECT**
+
+### `02`
+
+**DATA BEFORE ASSUMPTIONS**
+
+### `03`
+
+**UNDERSTAND BEFORE AUTOMATING**
+
+### `04`
+
+**MEASURE BEFORE OPTIMIZING**
+
+### `05`
+
+**KEEP LEARNING**
+
+</div>
+
+---
+
+# `/connect`
+
+<div align="center">
+
+### LET'S BUILD SOMETHING USEFUL.
+
+Whether it's **Data Science, Machine Learning, Analytics or AI**,
+I'm always interested in learning, experimenting and building.
+
+<br>
+
+<a href="mailto:shreesinha20@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL%20ME-4CC9F0?style=for-the-badge&logo=gmail&logoColor=0D1B2A" />
+</a>
+
+<a href="https://www.linkedin.com/in/shree-sinha-b607b531a">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+──────────────────────────────────────────────────────────────
+
+              SHREE.SINHA@GITHUB
+
+       DATA  →  INSIGHT  →  MODEL  →  IMPACT
+
+──────────────────────────────────────────────────────────────
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" width="100%" />
+
+</div>
+
 
