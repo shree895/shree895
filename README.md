@@ -295,25 +295,31 @@ The long-term idea is to investigate how an optimization system could select or 
 
 ### COMMAND CENTER
 
-<img src="https://github-readme-stats.vercel.app/api?username=shree895&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=FFFFFF&icon_color=4CC9F0&text_color=FFFFFF&rank_icon=github" width="48%" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree895&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=FFFFFF&text_color=FFFFFF" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shree895&show_icons=true&hide_border=true&theme=transparent" />
 
-<br><br>
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shree895&bg_color=0D1B2A&color=FFFFFF&line=4CC9F0&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<td width="50%" align="center">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree895&layout=compact&hide_border=true&theme=transparent" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `/activity`
-
 <div align="center">
 
-### CONTRIBUTION MATRIX
+### `CONTRIBUTION MATRIX`
 
-<img src="https://ghchart.rshah.org/0D1B2A/shree895" alt="Shree Sinha GitHub contribution graph" width="95%" />
+<img src="https://ghchart.rshah.org/0D1B2A/shree895"
+  alt="GitHub contribution activity"
+  width="94%" />
 
 </div>
 
