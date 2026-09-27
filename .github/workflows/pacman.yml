@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Pac-Man
         uses: Platane/snk@v3
         with:
@@ -21,7 +24,7 @@ jobs:
             output/pacman.svg?palette=github-dark
             output/pacman-dark.svg?palette=github-dark&color_snake=white&color_dots=#0D1B2A,#1B263B,#415A77,#778DA9,#E0E1DD
 
-      - name: Push generated files
+      - name: Commit generated files
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate Pac-Man contribution graph"
